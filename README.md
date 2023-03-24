@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiahui Feng</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djeggroll" alt="djeggroll" /></a> </p>
-
 - 🌱 I’m currently learning **Full-Stack Development**
 
 - 💬 Ask me about **React**
